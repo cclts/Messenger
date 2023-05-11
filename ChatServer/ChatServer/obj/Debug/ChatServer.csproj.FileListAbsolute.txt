@@ -1,0 +1,10 @@
+C:\Users\joyli\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe.config
+C:\Users\joyli\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.exe
+C:\Users\joyli\source\repos\ChatServer\ChatServer\bin\Debug\ChatServer.pdb
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.Properties.Resources.resources
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.exe
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.pdb
+C:\Users\joyli\source\repos\ChatServer\ChatServer\obj\Debug\ChatServer.Form1.resources
